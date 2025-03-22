@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Основы Android",
+    "sections": [
+      {
+        "title": "Activity",
+        "topics": [
+          {
+            "title": "Жизненный цикл Activity",
+            "content": "Описание жизненного цикла Activity. Используйте методы <a href='class:android.app.Activity#onCreate'>onCreate</a>, <a href='class:android.app.Activity#onStart'>onStart</a> и т.д."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "UI",
+    "sections": [
+      {
+        "title": "TextView",
+        "topics": [
+          {
+            "title": "Использование TextView",
+            "content": "Описание TextView.  Используйте <a href='class:android.widget.TextView#setText'>setText</a> для установки текста."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DevelopmentReferenceAndroid</string>
+    <string name="search_results_list">Список результатов поиска</string>
+    <string name="topic_list">Список тем</string>
+    <string name="alert_message">Сообщение</string>
+</resources>
