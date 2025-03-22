@@ -28,5 +28,5 @@ val CLASS_METHOD_MAP = mapOf(
     "Retrofit" to "https://square.github.io/retrofit/",
     "@GET" to "https://square.github.io/retrofit/2.x/retrofit/retrofit2/http/GET.html",
     "@POST" to "https://square.github.io/retrofit/2.x/retrofit/retrofit2/http/POST.html"
-    // Добавьте больше ссылок по мере необходимости
+    // Ссылки на подробную информацию
 )
